@@ -1,1 +1,2 @@
 # odin-recipes
+This will be my first "project" from The Odin Project. We will be creating a site only using html that will contain a homepage, and links to other pages that will contain recipes. In the future we will be adding styling with CSS.
